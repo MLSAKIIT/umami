@@ -11,8 +11,7 @@
 
 # local env files
 .env
-.env.*
-*.env.*
+.env.local
 
 *.dev.yml
 
