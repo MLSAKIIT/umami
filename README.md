@@ -17,6 +17,7 @@
 3.  **Deployment:**
 
     ```bash
+    export PRIMARY_DOMAIN=mlsakiit.com
     docker-compose up -d
     ```
 
