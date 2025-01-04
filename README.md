@@ -5,8 +5,8 @@
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/mlsakiit/umami-selfhosted.git
-    cd umami-selfhosted
+    git clone https://github.com/MLSAKIIT/umami.git
+    cd umami
     ```
 
 2.  **Configuration:**
